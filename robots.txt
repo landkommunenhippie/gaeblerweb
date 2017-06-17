@@ -1,0 +1,10 @@
+﻿User-Agent: * 
+Disallow: /usage/
+Disallow: /logs/
+Disallow: /robots.txt
+
+
+
+
+
+
